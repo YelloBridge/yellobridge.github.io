@@ -1,10 +1,10 @@
 ---
-title: "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata,"
+title: "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper proposes DeepSyslog, a deep learning framework for syslog anomaly detection leveraging sentence embedding and metadata correlation. (CCF-A, JCR Q1, IF=7.231)'
-date: 2022-08-24
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'

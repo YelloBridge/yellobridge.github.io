@@ -1,14 +1,12 @@
 ---
-title: "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata,"
+title: "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal
+permalink: /publication/2022-DeepSyslog
+excerpt: 'This paper proposes DeepSyslog, a deep learning framework for syslog anomaly detection leveraging sentence embedding and metadata correlation. (CCF-A, JCR Q1, IF=7.231)'
+date: 2022-8-24
+venue: 'IEEE Transactions on Information Forensics and Security'
+paperurl: 'https://doi.org/10.1109/TIFS.2022.xxxxxxx'  # 替换为实际DOI链接
+bibtexurl: '/files/2022-DeepSyslog.bib'  # 替换为BibTeX文件路径
+citation: 'J. Zhou, Y. Qian, Q. Zou, P. Liu, and J. Xiang, "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata," <i>IEEE Transactions on Information Forensics and Security</i>, vol. 17, pp. xxxx-xxxx, 2022. (Cited by 13)'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

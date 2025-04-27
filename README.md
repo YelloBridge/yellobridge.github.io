@@ -11,6 +11,37 @@ Director, Center for Computer and Artificial Intelligence Technologies
 1. Member: IEEE, ACM, CCF
 1. Former Associate Editor: HKIE Transactions
 
+# Academic Profile
+
+## 🎯 Research Interests
+**Computer Vision** | **Systems Security** | **Data Science**  
+- Established B.Sc. programs in Data Science and Artificial Intelligence at WHUT  
+- Courses taught: Computer Vision, Big Data Technologies, Data Mining  
+
+## 🏆 Key Achievements
+### Grants & Awards  
+- Led **14 research projects** (4 provincial/national), including:  
+  - **Third Prize**, Hubei Natural Science Award (PI)  
+  - Outstanding completion of MOE Collaborative Education Program  
+- Contributed to **11 collaborative projects** (6 provincial/national, 2 defense-related)  
+
+### Publications & IP  
+- **60+ papers** (11 in IEEE/ACM/CCF A/B journals)  
+  - Google Scholar: **1,200+ citations**  
+  - *h-index*: 15 | *i10-index*: 26  
+- **3 authorized invention patents**  
+
+### Mentorship  
+- Supervised students to win **5+ provincial/national innovation awards**  
+
+## 🎙 Professional Service  
+- **Program Committee**: ACL, Coling, EMNLP  
+- **Session Chair**: ISSRE  
+- Former **Associate Editor**: HKIE Transactions  
+
+## 📫 Contact  
+- **Email**: [your-email@whut.edu.cn](mailto:your-email@whut.edu.cn)  
+- **Office**: Center for AI & Computer Technologies, WHUT  
 
 # Getting Started
 
